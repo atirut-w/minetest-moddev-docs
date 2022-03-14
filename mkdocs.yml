@@ -1,0 +1,4 @@
+site_name: Test documentation
+
+theme:
+  name: material
